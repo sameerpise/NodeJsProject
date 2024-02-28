@@ -1,0 +1,25 @@
+    <div class="container">
+    <nav class="row col-md-12">
+      <div class="col-md-12">
+      <div class="navbar col-md-12">
+        <div class="logo"><a href="#" style="color: #04AA6D;">PortFolio</a></div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <ul class="menu collapse navbar-collapse" id="navbarSupportedContent">
+          <li><a href="#">Home</a></li>
+          <li><a href="#About">About</a></li>
+          <li><a href="#Skills">Skill</a></li>
+          <li><a href="#Contact">Contact</a></li>
+          <li><a href="#Work">Project's</a></li>
+          <li><a href="https://www.linkedin.com/in/sameer-pise-564671179" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+          <li><a href=" https://github.com/sameerpise" target="_blank"><i class="fa-brands fa-github" href="https://www.linkedin.com/in/sameer-pise-564671179"></i></a></li>
+          
+        </ul>
+      
+      </div>
+      </div>
+      <div class="progress-container" style="color: #ccc;">
+        <div class="progress-bar" style="color:#04AA6D;" id="myBar"></div>
+      </div> 
+    </nav>
